@@ -1,3 +1,4 @@
+<!--
 DAY : 1
 Today I have learnt paragraph, formatting, headings, styles in HTML.
 _________________________________________________________________________________
@@ -32,3 +33,4 @@ FORMATTING
 <del>	Defines deleted text
 <mark>	Defines marked/highlighted text
 -----------------------------------------------------
+-->
