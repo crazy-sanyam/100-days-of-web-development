@@ -1,8 +1,16 @@
-Taday I have completed the basic HTML & basic CSS .
+Taday I have completed the basic HTML & basic CSS, from the website:
 [  https://www.freecodecamp.org/learn/responsive-web-design/   ]
 
 it is very simple course and took not more than 90minutes to complete the course.
 now i will firther continue the HTML course I am doing on W3Schools.
-
-
-[  https://www.freecodecamp.org/learn/responsive-web-design/   ]
+-------------------------------------------
+Use the HTML <img> element to define an image
+Use the HTML src attribute to define the URL of the image
+Use the HTML alt attribute to define an alternate text for an image, if it cannot be displayed
+Use the HTML width and height attributes or the CSS width and height properties to define the size of the image
+Use the CSS float property to let the image float to the left or to the right
+----------------------------------------
+<img>	Defines an image
+<map>	Defines an image map
+<area>	Defines a clickable area inside an image map
+<picture>	Defines a container for multiple image resources
