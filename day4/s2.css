@@ -1,11 +1,11 @@
 #i02{
-    background-color: burlywood;
+    background-color: yellow;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 #i01{
-    color: brown;
+    color: black;
     font-size: 300%;
-    background-color: hotpink;
+    background-color: tomato;
 }
 #img01{
     float: right;
@@ -13,7 +13,7 @@
 }
 #i03{
     font-size: 200%;
-    background-color: grey;
+    background-color: orange;
 }
 #b01{
     font-size: 100%;
@@ -23,4 +23,8 @@
     font-size: 150%;
     background-color: rgb(113, 243, 232);
     color: rgb(7, 7, 7);
+}
+#img201{
+    float: left;
+    height: 4cm;
 }
