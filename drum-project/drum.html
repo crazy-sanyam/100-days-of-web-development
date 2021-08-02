@@ -8,6 +8,7 @@
 </head>
 
 <body>
+    <h1>Sanyam's Drum / Tabla : </h1>
     <div class="keys">
         <div data-key="65" class="key">
             <kbd>A</kbd>
@@ -75,6 +76,8 @@
     const keys = Array.from(document.querySelectorAll('.key'));
     keys.forEach(key => key.addEventListener('transitionend', removeTransition));
     window.addEventListener('keydown', playSound);
+    // console.log(key);
+    key.classList.add('playing');
 
 </script>
 
