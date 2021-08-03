@@ -11,22 +11,27 @@ function ID(clicked_id) {
     }
     if (id == "bPlus" || id == "bMinus" || id == "bDivide" || id == "bMultiply") {
         n1 = document.getElementById("inputBar").innerHTML;
-        a=id;
-        document.getElementById("inputBar").innerHTML=null;
+        a = id;
+        document.getElementById("inputBar").innerHTML = null;
     }
     if (id == "bEqual") {
-        n2=document.getElementById("inputBar").innerHTML;
-        if(a=="bPlus"){
-            document.getElementById("inputBar").innerHTML=Number(n1) + Number(n2);
+        n2 = document.getElementById("inputBar").innerHTML;
+        if (a == "bPlus") {
+            document.getElementById("inputBar").innerHTML = Number(n1) + Number(n2);
         }
-        if(a=="bMinus"){
-            document.getElementById("inputBar").innerHTML=Number(n1)-Number(n2);
+        else if (a == "bMinus") {
+            document.getElementById("inputBar").innerHTML = Number(n1) - Number(n2);
         }
-        if(a=="bMultiply"){
-            document.getElementById("inputBar").innerHTML=Number(n1)*Number(n2);
+        else if (a == "bMultiply") {
+            document.getElementById("inputBar").innerHTML = Number(n1) * Number(n2);
         }
-        if(a=="bDivide"){
-            document.getElementById("inputBar").innerHTML=Number(n1)/Number(n2);
+        else if (a == "bDivide") {
+            document.getElementById("inputBar").innerHTML = Number(n1) / Number(n2);
         }
-        }
+
+    }
+    if (id == "bPercent") {
+        document.getElementById("inputBar").innerHTML = document.getElementById("inputBar").innerHTML / 100;
+    }
+
 }
