@@ -12,26 +12,33 @@ table{
 }
 .num, .op, #bPoint,#bAC{
     height: 1cm;
-    width: 1cm;
+    width: 1.2cm;
     border: 2px solid black;
+    background-color: wheat;
+    font-size: 0.5cm;
 }
 #b0{
-    height: 1cm;
-    width: 2.1cm;
+    height: 1.1cm;
+    width: 2.5cm;
     border: 2px solid black;
+    background-color: wheat;
+    font-size: 0.8cm;
 }
 #inputBar{
     height: 1cm;
-    width: 4cm;
+    width: 5cm;
     border: 2px solid navy;
     background-color: honeydew;
-    /* margin-top: 0.5cm; */
+    font-size: 0.56cm;
+
 }
 
 #bEqual{
-    height: 1cm;
-    width: 1cm;
+    height: 1.1cm;
+    width: 1.3cm;
     border: 2px solid navy;
+    background-color: wheat;
+    font-size: 0.8cm;
 }
 body{
     background-color: sandybrown;
