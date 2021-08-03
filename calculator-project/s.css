@@ -9,12 +9,12 @@ table{
     fill: tomato;
     border: 5px solid black;
 }
-#buttonType1{
+.num, .op, #bPoint,#bAC{
     height: 1cm;
     width: 1cm;
     border: 2px solid black;
 }
-#buttonType2{
+#b0{
     height: 1cm;
     width: 2.1cm;
     border: 2px solid black;
@@ -25,10 +25,15 @@ table{
     border: 2px solid rgb(0, 0, 92);
     /* margin-top: 0.5cm; */
 }
-html{
-    margin: 200px 200px 200px 200px;
-    border: 5px black solid;
-    padding: 20px 20px 20px 20px;
+/* html{
+    /* margin: 200px 200px 200px 200px; */
+    /* border: 5px black solid; */
+    /* padding: 20px 20px 20px 20px; */
     /* bordercolor: black; */
 
+} */
+#bEqual{
+    height: 1.02cm;
+    width: 1.02cm;
+    border: 5px solid navy;
 }
