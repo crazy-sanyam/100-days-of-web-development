@@ -34,4 +34,5 @@ function ID(clicked_id) {
         document.getElementById("inputBar").innerHTML = document.getElementById("inputBar").innerHTML / 100;
     }
 
+    
 }
