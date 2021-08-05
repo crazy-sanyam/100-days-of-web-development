@@ -16,7 +16,7 @@
         <tr>
             <td><button id="bAC" onclick="ID(this.id)">AC</button></td>
 
-            <td><button id="bSign" class="op" onclick="ID(this.id)">+/-</button></td>
+            <td><button data-key="8" id="backspace" class="op" onclick="ID(this.id)"> <img src="/calculator-project/backspace.png" id="img-bs"> </button></td>
 
             <td><button id="bPercent" class="op" onclick="ID(this.id)">%</button></td>
 
@@ -57,8 +57,9 @@
 
         </tr>
         <tr>
+            <td><button id="bSign" class="op" onclick="ID(this.id)">+/-</button></td>
 
-            <th colspan="2"><button id="b0" onclick="ID(this.id)" data-key="48">0</button></th>
+            <th><button id="b0" class="num" onclick="ID(this.id)" data-key="48">0</button></th>
 
             <td><button id="bPoint" onclick="ID(this.id)" data-key="191">.</button></td>
 
@@ -67,7 +68,6 @@
         </tr>
         
     </table>
-    <button data-key="8" id="backspace"></button>
 
 </body>
 

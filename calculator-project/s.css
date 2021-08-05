@@ -17,13 +17,13 @@ table{
     background-color: wheat;
     font-size: 0.5cm;
 }
-#b0{
+/* #b0{
     height: 1.1cm;
     width: 2.5cm;
     border: 2px solid black;
     background-color: wheat;
     font-size: 0.8cm;
-}
+} */
 #inputBar{
     height: 1.2cm;
     width: 5cm;
@@ -34,15 +34,22 @@ table{
 }
 
 #bEqual{
-    height: 1.1cm;
-    width: 1.3cm;
-    border: 2px solid navy;
+    height: 1.15cm;
+    width: 1.35cm;
+    border: 3.5px solid black;
     background-color: wheat;
     font-size: 0.8cm;
+    font-weight: bolder;
 }
 body{
     background-color: sandybrown;
 }
 .click{
     background-color: red;
+}
+#img-bs{
+    height: 0.6cm;
+    width: 0.7cm;
+    margin-top: 0.13cm ;
+    margin-bottom: 0.2;
 }
