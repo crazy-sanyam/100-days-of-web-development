@@ -10,27 +10,37 @@
 <body>
     <h1>Sam-Mart</h1>
     <div id="items">
-    <ul id="myItems">
-        <li class="itm">
-            <img src="shoes.jfif" id="product1" class="products"><br>
-            <button class="addToCart" onclick="addToCart(this.id)" id="p1">Add to cart</button>
-        </li>
-        <li class="itm">
-            <img src="t-shirt.jpg" id="product2" class="products"><br>
-            <button class="addToCart" onclick="addToCart(this.id)" id="p2">Add to cart</button>
-        </li>
-        <li class="itm">
-            <img src="umbrella.jpg" id="product3" class="products"><br>
-            <button class="addToCart" onclick="addToCart(this.id)" id="p3">Add to cart</button>
-        </li>
-    </ul>
+        <ul id="myItems">
+            <li class="itm">
+                <div class="item1">
+                    <img src="shoes.jfif" id="product1" class="products">
+                    <p class="price">Price: $150</p>
+                    <button class="addToCart" onclick="addToCart(this.id)" id="p1">Add to cart</button>
+                </div>
+            </li>
+            <li class="itm">
+                <div class="item1">
+                    <img src="t-shirt.jpg" id="product2" class="products">
+                    <p class="price">Price: $50</p>
+                    <button class="addToCart" onclick="addToCart(this.id)" id="p2">Add to cart</button>
+                </div>
+            </li>
+            <li class="itm">
+                <div class="item1">
+                    <img src="umbrella.jpg" id="product3" class="products">
+                    <p class="price">Price: $10</p>
+                    <button class="addToCart" onclick="addToCart(this.id)" id="p3">Add to cart</button>
+                </div>
+            </li>
+        </ul>
     </div>
     <br>
     <h2>My-Cart <img src="cart.png" id="cart"></h2>
     <div id="cartDiv">
-    <ul id="MyCart">
+        <ul id="MyCart">
+            <li></li>
 
-    </ul>
+        </ul>
     </div>
 
 
