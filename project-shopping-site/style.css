@@ -1,0 +1,42 @@
+body{
+    background-color: saddlebrown;
+}
+h1{
+    background-color: gold;
+    color:red;
+    font-size: 3cm;
+}
+h2{
+    background-color: white;
+    color: steelblue;
+    font-size: 1.5cm;
+    font-family: brush script md;
+}
+.products{
+    height: 8cm;
+    width: 10cm;
+    ;
+}
+.itm{
+    list-style-type: none;
+    padding: 40px 30px;
+    background-color: coral;
+}
+.addToCart{
+    color: red;
+    cursor: pointer;
+    height: 1cm;
+    width: 3cm;
+    font-size: 0.5cm;
+}
+#cart{
+    height: 2cm;
+    width: 2cm;
+   
+}
+#items{
+    /* background-color: brown; */
+}
+#cartDiv{
+    background-color: burlywood;
+}
