@@ -1,40 +1,58 @@
-#i02{
+#i02 {
     background-color: yellow;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-#i01{
+
+#i01 {
     color: black;
     font-size: 300%;
     background-color: tomato;
 }
-#img01{
+
+#img01 {
     float: right;
-    border: 5px solid red ;
+    border: 5px solid red;
+    height: 10cm;
 }
-#i03{
+
+#i03 {
     font-size: 200%;
     background-color: orange;
+    height: 10cm;
 }
-#b01{
+
+#b01 {
     font-size: 100%;
-    /* background-color: indigo; */
 }
-#i05{
+
+#i05 {
     font-size: 150%;
     background-color: rgb(113, 243, 232);
     color: rgb(7, 7, 7);
 }
-#img201{
+
+.panel {
     float: left;
+    width: 2cm;
     height: 4cm;
+    flex: 1;
+    transition: flex 1.5s;
 }
-#sam{
+
+#img201:hover {
+    flex: 3;
+}
+
+#sam {
+    display: flex;
+    flex-wrap: nowrap;
     margin: auto;
     height: 4cm;
     background: rgb(235, 97, 97);
     padding: 0.1cm;
 }
-.sj{
+
+.sj {
     background-color: rgb(255, 204, 93);
     color: cornsilk;
     border: black;
