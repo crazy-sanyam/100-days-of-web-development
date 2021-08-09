@@ -1,5 +1,5 @@
 #i02 {
-    background-color: yellow;
+    background-color: skyblue;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
@@ -18,7 +18,7 @@
 #i03 {
     font-size: 200%;
     background-color: orange;
-    height: 10cm;
+    /* height: 10cm; */
 }
 
 #b01 {
@@ -39,8 +39,12 @@
     transition: flex 1.5s;
 }
 
-#img201:hover {
-    flex: 3;
+#img2011 {
+    flex: 4;
+}
+
+.panel:hover {
+    flex: 4;
 }
 
 #sam {
@@ -54,7 +58,7 @@
 
 .sj {
     background-color: rgb(255, 204, 93);
-    color: cornsilk;
+    color: blueviolet;
     border: black;
     border-style: dotted;
 }
