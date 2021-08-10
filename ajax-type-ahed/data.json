@@ -1,0 +1,2214 @@
+﻿[
+    {
+        "rank": "1",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "populationIn2001": "11,978,450",
+        "populationIn2011": "12,442,373"
+    },
+    {
+        "rank": "2",
+        "city": "Delhi",
+        "state": "Delhi",
+        "populationIn2001": "9,879,172",
+        "populationIn2011": "11,007,835"
+    },
+    {
+        "rank": "3",
+        "city": "Bangalore",
+        "state": "Karnataka",
+        "populationIn2001": "4,301,326",
+        "populationIn2011": "8,436,675"
+    },
+    {
+        "rank": "4",
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "populationIn2001": "3,637,483",
+        "populationIn2011": "6,809,970"
+    },
+    {
+        "rank": "5",
+        "city": "Ahmedabad",
+        "state": "Gujarat",
+        "populationIn2001": "3,520,085",
+        "populationIn2011": "5,570,585"
+    },
+    {
+        "rank": "6",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "populationIn2001": "4,343,645",
+        "populationIn2011": "4,681,087"
+    },
+    {
+        "rank": "7",
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "populationIn2001": "4,572,876",
+        "populationIn2011": "4,486,679"
+    },
+    {
+        "rank": "8",
+        "city": "Surat",
+        "state": "Gujarat",
+        "populationIn2001": "2,433,835",
+        "populationIn2011": "4,467,797"
+    },
+    {
+        "rank": "9",
+        "city": "Pune",
+        "state": "Maharashtra",
+        "populationIn2001": "2,538,473",
+        "populationIn2011": "3,115,431"
+    },
+    {
+        "rank": "10",
+        "city": "Jaipur",
+        "state": "Rajasthan",
+        "populationIn2001": "2,322,575",
+        "populationIn2011": "3,046,163"
+    },
+    {
+        "rank": "11",
+        "city": "Lucknow",
+        "state": "Uttar Pradesh",
+        "populationIn2001": "2,185,927",
+        "populationIn2011": "2,815,601"
+    },
+    {
+        "rank": "12",
+        "city": "Kanpur",
+        "state": "Uttar Pradesh",
+        "populationIn2001": "2,551,337",
+        "populationIn2011": "2,767,031"
+    },
+    {
+        "rank": "13",
+        "city": "Nagpur",
+        "state": "Maharashtra",
+        "populationIn2001": "2,052,066",
+        "populationIn2011": "2,405,665"
+    },
+    {
+        "rank": "14",
+        "city": "Indore",
+        "state": "Madhya Pradesh",
+        "populationIn2001": "1,474,968",
+        "populationIn2011": "1,960,631"
+    },
+    {
+        "rank": "15",
+        "city": "Thane",
+        "state": "Maharashtra",
+        "populationIn2001": "1,262,551",
+        "populationIn2011": "1,818,872"
+    },
+    {
+        "rank": "16",
+        "city": "Bhopal",
+        "state": "Madhya Pradesh",
+        "populationIn2001": "1,437,354",
+        "populationIn2011": "1,795,648"
+    },
+    {
+        "rank": "17",
+        "city": "Visakhapatnam",
+        "state": "Andhra Pradesh",
+        "populationIn2001": "1,345,938",
+        "populationIn2011": "1,730,320"
+    },
+    {
+        "rank": "18",
+        "city": "Pimpri-Chinchwad",
+        "state": "Maharashtra",
+        "populationIn2001": "1,012,472",
+        "populationIn2011": "1,727,692"
+    },
+    {
+        "rank": "19",
+        "city": "Patna",
+        "state": "Bihar",
+        "populationIn2001": "1,366,444",
+        "populationIn2011": "1,684,222"
+    },
+    {
+        "rank": "20",
+        "city": "Vadodara",
+        "state": "Gujarat",
+        "populationIn2001": "1,306,227",
+        "populationIn2011": "1,670,806"
+    },
+    {
+        "rank": "21",
+        "city": "Ghaziabad",
+        "state": "Uttar Pradesh",
+        "populationIn2001": "968,256",
+        "populationIn2011": "1,648,643"
+    },
+    {
+        "rank": "22",
+        "city": "Ludhiana",
+        "state": "Punjab",
+        "populationIn2001": "1,398,467",
+        "populationIn2011": "1,618,879"
+    },
+    {
+        "rank": "23",
+        "city": "Agra",
+        "state": "Uttar Pradesh",
+        "populationIn2001": "1,275,134",
+        "populationIn2011": "1,585,704"
+    },
+    {
+        "rank": "24",
+        "city": "Nashik",
+        "state": "Maharashtra",
+        "populationIn2001": "1,077,236",
+        "populationIn2011": "1,486,053"
+    },
+    {
+        "rank": "25",
+        "city": "Ranchi",
+        "state": "Jharkhand",
+        "populationIn2001": "1,079,968",
+        "populationIn2011": "1,456,528"
+    },
+    {
+        "rank": "26",
+        "city": "Faridabad",
+        "state": "Haryana",
+        "populationIn2001": "1,055,938",
+        "populationIn2011": "1,414,050"
+    },
+    {
+        "rank": "27",
+        "city": "Meerut",
+        "state": "Uttar Pradesh",
+        "populationIn2001": "1,039,405",
+        "populationIn2011": "1,305,429"
+    },
+    {
+        "rank": "28",
+        "city": "Rajkot",
+        "state": "Gujarat",
+        "populationIn2001": "967,476",
+        "populationIn2011": "1,286,678"
+    },
+    {
+        "rank": "29",
+        "city": "Kalyan-Dombivli",
+        "state": "Maharashtra",
+        "populationIn2001": "1,193,512",
+        "populationIn2011": "1,247,327"
+    },
+    {
+        "rank": "30",
+        "city": "Vasai-Virar",
+        "state": "Maharashtra",
+        "populationIn2001": "693,350",
+        "populationIn2011": "1,222,390"
+    },
+    {
+        "rank": "31",
+        "city": "Varanasi",
+        "state": "Uttar Pradesh",
+        "populationIn2001": "1,091,918",
+        "populationIn2011": "1,201,815"
+    },
+    {
+        "rank": "32",
+        "city": "Srinagar",
+        "state": "Jammu and Kashmir",
+        "populationIn2001": "898,440",
+        "populationIn2011": "1,180,570"
+    },
+    {
+        "rank": "33",
+        "city": "Aurangabad",
+        "state": "Maharashtra",
+        "populationIn2001": "873,311",
+        "populationIn2011": "1,175,116"
+    },
+    {
+        "rank": "34",
+        "city": "Dhanbad",
+        "state": "Jharkhand",
+        "populationIn2001": "1,065,327",
+        "populationIn2011": "1,162,472"
+    },
+    {
+        "rank": "35",
+        "city": "Amritsar",
+        "state": "Punjab",
+        "populationIn2001": "966,862",
+        "populationIn2011": "1,132,383"
+    },
+    {
+        "rank": "36",
+        "city": "Navi Mumbai",
+        "state": "Maharashtra",
+        "populationIn2001": "704,002",
+        "populationIn2011": "1,120,547"
+    },
+    {
+        "rank": "37",
+        "city": "Allahabad",
+        "state": "Uttar Pradesh[5]",
+        "populationIn2001": "975,393",
+        "populationIn2011": "1,112,544"
+    },
+    {
+        "rank": "38",
+        "city": "Howrah",
+        "state": "West Bengal",
+        "populationIn2001": "1,007,532",
+        "populationIn2011": "1,077,075"
+    },
+    {
+        "rank": "39",
+        "city": "Gwalior",
+        "state": "Madhya Pradesh",
+        "populationIn2001": "827,026",
+        "populationIn2011": "1,069,276"
+    },
+    {
+        "rank": "40",
+        "city": "Jabalpur",
+        "state": "Madhya Pradesh",
+        "populationIn2001": "932,484",
+        "populationIn2011": "1,055,525"
+    },
+    {
+        "rank": "41",
+        "city": "Coimbatore",
+        "state": "Tamil Nadu",
+        "populationIn2001": "930,882",
+        "populationIn2011": "1,050,721"
+    },
+    {
+        "rank": "42",
+        "city": "Vijayawada",
+        "state": "Andhra Pradesh",
+        "populationIn2001": "851,282",
+        "populationIn2011": "1,034,358"
+    },
+    {
+        "rank": "43",
+        "city": "Jodhpur",
+        "state": "Rajasthan",
+        "populationIn2001": "851,051",
+        "populationIn2011": "1,033,918"
+    },
+    {
+        "rank": "44",
+        "city": "Madurai",
+        "state": "Tamil Nadu",
+        "populationIn2001": "928,869",
+        "populationIn2011": "1,017,865"
+    },
+    {
+        "rank": "45",
+        "city": "Raipur",
+        "state": "Chhattisgarh",
+        "populationIn2001": "605,747",
+        "populationIn2011": "1,010,087"
+    },
+    {
+        "rank": "46",
+        "city": "Chandigarh",
+        "state": "Chandigarh",
+        "populationIn2001": "808,515",
+        "populationIn2011": "1,028,667"
+    },
+    {
+        "rank": "47",
+        "city": "Guwahati",
+        "state": "Assam",
+        "populationIn2001": "809,895",
+        "populationIn2011": "957,352"
+    },
+    {
+        "rank": "48",
+        "city": "Solapur",
+        "state": "Maharashtra",
+        "populationIn2001": "872,478",
+        "populationIn2011": "951,558"
+    },
+    {
+        "rank": "49",
+        "city": "Hubli–Dharwad",
+        "state": "Karnataka",
+        "populationIn2001": "786,195",
+        "populationIn2011": "943,788"
+    },
+    {
+        "rank": "50",
+        "city": "Mysore",
+        "state": "Karnataka",
+        "populationIn2001": "762,408",
+        "populationIn2011": "920,550"
+    },
+    {
+        "rank": "51",
+        "city": "Tiruchirappalli",
+        "state": "Tamil Nadu",
+        "populationIn2001": "752,066",
+        "populationIn2011": "916,674"
+    },
+    {
+        "rank": "52",
+        "city": "Bareilly",
+        "state": "Uttar Pradesh",
+        "populationIn2001": "718,395",
+        "populationIn2011": "898,167"
+    },
+    {
+        "rank": "53",
+        "city": "Aligarh",
+        "state": "Uttar Pradesh",
+        "populationIn2001": "672,315",
+        "populationIn2011": "889,810"
+    },
+    {
+        "rank": "54",
+        "city": "Tiruppur",
+        "state": "Tamil Nadu",
+        "populationIn2001": "344,543",
+        "populationIn2011": "877,778"
+    },
+    {
+        "rank": "55",
+        "city": "Gurgaon",
+        "state": "Haryana",
+        "populationIn2001": "173,542",
+        "populationIn2011": "876,824"
+    },
+    {
+        "rank": "56",
+        "city": "Moradabad",
+        "state": "Uttar Pradesh",
+        "populationIn2001": "669,087",
+        "populationIn2011": "872,575"
+    },
+    {
+        "rank": "57",
+        "city": "Jalandhar",
+        "state": "Punjab",
+        "populationIn2001": "706,043",
+        "populationIn2011": "862,196"
+    },
+    {
+        "rank": "58",
+        "city": "Bhubaneswar",
+        "state": "Odisha",
+        "populationIn2001": "648,032",
+        "populationIn2011": "837,737"
+    },
+    {
+        "rank": "59",
+        "city": "Salem",
+        "state": "Tamil Nadu",
+        "populationIn2001": "696,760",
+        "populationIn2011": "831,038"
+    },
+    {
+        "rank": "60",
+        "city": "Warangal",
+        "state": "Telangana",
+        "populationIn2001": "530,636",
+        "populationIn2011": "830,281"
+    },
+    {
+        "rank": "61",
+        "city": "Mira-Bhayandar",
+        "state": "Maharashtra",
+        "populationIn2001": "520,388",
+        "populationIn2011": "814,655"
+    },
+    {
+        "rank": "62",
+        "city": "Jalgaon",
+        "state": "Maharashtra",
+        "populationIn2001": "462,280",
+        "populationIn2011": "798,514"
+    },
+    {
+        "rank": "63",
+        "city": "Kota",
+        "state": "Rajasthan",
+        "populationIn2001": "594,316",
+        "populationIn2011": "743,556"
+    },
+    {
+        "rank": "64",
+        "city": "Guntur",
+        "state": "Andhra Pradesh",
+        "populationIn2001": "514,461",
+        "populationIn2011": "743,354"
+    },
+    {
+        "rank": "65",
+        "city": "Bhiwandi",
+        "state": "Maharashtra",
+        "populationIn2001": "598,741",
+        "populationIn2011": "711,329"
+    },
+    {
+        "rank": "66",
+        "city": "Saharanpur",
+        "state": "Uttar Pradesh",
+        "populationIn2001": "455,754",
+        "populationIn2011": "703,345"
+    },
+    {
+        "rank": "67",
+        "city": "Gorakhpur",
+        "state": "Uttar Pradesh",
+        "populationIn2001": "622,701",
+        "populationIn2011": "671,048"
+    },
+    {
+        "rank": "68",
+        "city": "Bikaner",
+        "state": "Rajasthan",
+        "populationIn2001": "529,690",
+        "populationIn2011": "647,804"
+    },
+    {
+        "rank": "69",
+        "city": "Amravati",
+        "state": "Maharashtra",
+        "populationIn2001": "549,510",
+        "populationIn2011": "646,801"
+    },
+    {
+        "rank": "70",
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "populationIn2001": "305,058",
+        "populationIn2011": "642,381"
+    },
+    {
+        "rank": "71",
+        "city": "Jamshedpur",
+        "state": "Jharkhand",
+        "populationIn2001": "573,096",
+        "populationIn2011": "631,364"
+    },
+    {
+        "rank": "72",
+        "city": "Bhilai",
+        "state": "Chhattisgarh",
+        "populationIn2001": "556,366",
+        "populationIn2011": "625,697"
+    },
+    {
+        "rank": "73",
+        "city": "Cuttack",
+        "state": "Odisha",
+        "populationIn2001": "534,654",
+        "populationIn2011": "606,007"
+    },
+    {
+        "rank": "74",
+        "city": "Firozabad",
+        "state": "Uttar Pradesh",
+        "populationIn2001": "279,102",
+        "populationIn2011": "603,797"
+    },
+    {
+        "rank": "75",
+        "city": "Kochi",
+        "state": "Kerala",
+        "populationIn2001": "596,473",
+        "populationIn2011": "601,574"
+    },
+    {
+        "rank": "76",
+        "city": "Nellore",
+        "state": "Andhra Pradesh",
+        "populationIn2001": "378,428",
+        "populationIn2011": "600,869"
+    },
+    {
+        "rank": "77",
+        "city": "Bhavnagar",
+        "state": "Gujarat",
+        "populationIn2001": "511,085",
+        "populationIn2011": "593,768"
+    },
+    {
+        "rank": "78",
+        "city": "Dehradun",
+        "state": "Uttarakhand",
+        "populationIn2001": "426,674",
+        "populationIn2011": "578,420"
+    },
+    {
+        "rank": "79",
+        "city": "Durgapur",
+        "state": "West Bengal",
+        "populationIn2001": "493,405",
+        "populationIn2011": "566,937"
+    },
+    {
+        "rank": "80",
+        "city": "Asansol",
+        "state": "West Bengal",
+        "populationIn2001": "475,439",
+        "populationIn2011": "564,491"
+    },
+    {
+        "rank": "81",
+        "city": "Rourkela",
+        "state": "Odisha",
+        "populationIn2001": "426,354",
+        "populationIn2011": "552,734"
+    },
+    {
+        "rank": "82",
+        "city": "Nanded",
+        "state": "Maharashtra",
+        "populationIn2001": "430,733",
+        "populationIn2011": "550,564"
+    },
+    {
+        "rank": "83",
+        "city": "Kolhapur",
+        "state": "Maharashtra",
+        "populationIn2001": "493,167",
+        "populationIn2011": "549,283"
+    },
+    {
+        "rank": "84",
+        "city": "Ajmer",
+        "state": "Rajasthan",
+        "populationIn2001": "485,575",
+        "populationIn2011": "542,580"
+    },
+    {
+        "rank": "85",
+        "city": "Akola",
+        "state": "Maharashtra",
+        "populationIn2001": "400,520",
+        "populationIn2011": "537,149"
+    },
+    {
+        "rank": "86",
+        "city": "Gulbarga",
+        "state": "Karnataka",
+        "populationIn2001": "422,569",
+        "populationIn2011": "532,031"
+    },
+    {
+        "rank": "87",
+        "city": "Jamnagar",
+        "state": "Gujarat",
+        "populationIn2001": "443,518",
+        "populationIn2011": "529,308"
+    },
+    {
+        "rank": "88",
+        "city": "Ujjain",
+        "state": "Madhya Pradesh",
+        "populationIn2001": "430,427",
+        "populationIn2011": "515,215"
+    },
+    {
+        "rank": "89",
+        "city": "Loni",
+        "state": "Uttar Pradesh",
+        "populationIn2001": "120,945",
+        "populationIn2011": "512,296"
+    },
+    {
+        "rank": "90",
+        "city": "Siliguri",
+        "state": "West Bengal",
+        "populationIn2001": "472,374",
+        "populationIn2011": "509,709"
+    },
+    {
+        "rank": "91",
+        "city": "Jhansi",
+        "state": "Uttar Pradesh",
+        "populationIn2001": "383,644",
+        "populationIn2011": "507,293"
+    },
+    {
+        "rank": "92",
+        "city": "Ulhasnagar",
+        "state": "Maharashtra",
+        "populationIn2001": "473,731",
+        "populationIn2011": "506,937"
+    },
+    {
+        "rank": "93",
+        "city": "Jammu",
+        "state": "Jammu and Kashmir",
+        "populationIn2001": "369,959",
+        "populationIn2011": "503,690"
+    },
+    {
+        "rank": "94",
+        "city": "Sangli-Miraj & Kupwad",
+        "state": "Maharashtra",
+        "populationIn2001": "436,781",
+        "populationIn2011": "502,697"
+    },
+    {
+        "rank": "95",
+        "city": "Mangalore",
+        "state": "Karnataka",
+        "populationIn2001": "399,565",
+        "populationIn2011": "499,486"
+    },
+    {
+        "rank": "96",
+        "city": "Erode",
+        "state": "Tamil Nadu",
+        "populationIn2001": "173,600",
+        "populationIn2011": "498,129"
+    },
+    {
+        "rank": "97",
+        "city": "Belgaum",
+        "state": "Karnataka",
+        "populationIn2001": "399,653",
+        "populationIn2011": "488,292"
+    },
+    {
+        "rank": "98",
+        "city": "Ambattur",
+        "state": "Tamil Nadu",
+        "populationIn2001": "310,967",
+        "populationIn2011": "478,134"
+    },
+    {
+        "rank": "99",
+        "city": "Tirunelveli",
+        "state": "Tamil Nadu",
+        "populationIn2001": "411,831",
+        "populationIn2011": "473,637"
+    },
+    {
+        "rank": "100",
+        "city": "Malegaon",
+        "state": "Maharashtra",
+        "populationIn2001": "409,403",
+        "populationIn2011": "471,006"
+    },
+    {
+        "rank": "101",
+        "city": "Gaya",
+        "state": "Bihar",
+        "populationIn2001": "385,432",
+        "populationIn2011": "463,454"
+    },
+    {
+        "rank": "102",
+        "city": "Thiruvananthapuram",
+        "state": "Kerala",
+        "populationIn2001": "368,618",
+        "populationIn2011": "460,468"
+    },
+    {
+        "rank": "103",
+        "city": "Udaipur",
+        "state": "Rajasthan",
+        "populationIn2001": "389,438",
+        "populationIn2011": "451,735"
+    },
+    {
+        "rank": "104",
+        "city": "Kakinada",
+        "state": "Andhra Pradesh",
+        "populationIn2001": "325,985",
+        "populationIn2011": "443,028"
+    },
+    {
+        "rank": "105",
+        "city": "Davanagere",
+        "state": "Karnataka",
+        "populationIn2001": "364,523",
+        "populationIn2011": "435,128"
+    },
+    {
+        "rank": "106",
+        "city": "Kozhikode",
+        "state": "Kerala",
+        "populationIn2001": "436,556",
+        "populationIn2011": "432,097"
+    },
+    {
+        "rank": "107",
+        "city": "Maheshtala",
+        "state": "West Bengal",
+        "populationIn2001": "385,266",
+        "populationIn2011": "429,423"
+    },
+    {
+        "rank": "108",
+        "city": "Rajpur Sonarpur",
+        "state": "West Bengal",
+        "populationIn2001": "336,707",
+        "populationIn2011": "423,806"
+    },
+    {
+        "rank": "109",
+        "city": "Rajahmundry",
+        "state": "Andhra Pradesh",
+        "populationIn2001": "315,251",
+        "populationIn2011": "419,818"
+    },
+    {
+        "rank": "110",
+        "city": "Bokaro",
+        "state": "Jharkhand",
+        "populationIn2001": "393,805",
+        "populationIn2011": "413,934"
+    },
+    {
+        "rank": "111",
+        "city": "South Dumdum",
+        "state": "West Bengal",
+        "populationIn2001": "392,444",
+        "populationIn2011": "410,524"
+    },
+    {
+        "rank": "112",
+        "city": "Bellary",
+        "state": "Karnataka",
+        "populationIn2001": "316,766",
+        "populationIn2011": "409,644"
+    },
+    {
+        "rank": "113",
+        "city": "Patiala",
+        "state": "Punjab",
+        "populationIn2001": "303,151",
+        "populationIn2011": "405,164"
+    },
+    {
+        "rank": "114",
+        "city": "Gopalpur",
+        "state": "West Bengal",
+        "populationIn2001": "271,811",
+        "populationIn2011": "404,991"
+    },
+    {
+        "rank": "115",
+        "city": "Agartala",
+        "state": "Tripura",
+        "populationIn2001": "271,811",
+        "populationIn2011": "399,688"
+    },
+    {
+        "rank": "116",
+        "city": "Bhagalpur",
+        "state": "Bihar",
+        "populationIn2001": "340,767",
+        "populationIn2011": "398,138"
+    },
+    {
+        "rank": "117",
+        "city": "Muzaffarnagar",
+        "state": "Uttar Pradesh",
+        "populationIn2001": "316,729",
+        "populationIn2011": "392,451"
+    },
+    {
+        "rank": "118",
+        "city": "Bhatpara",
+        "state": "West Bengal",
+        "populationIn2001": "442,385",
+        "populationIn2011": "390,467"
+    },
+    {
+        "rank": "119",
+        "city": "Panihati",
+        "state": "West Bengal",
+        "populationIn2001": "348,438",
+        "populationIn2011": "383,522"
+    },
+    {
+        "rank": "120",
+        "city": "Latur",
+        "state": "Maharashtra",
+        "populationIn2001": "299,985",
+        "populationIn2011": "382,754"
+    },
+    {
+        "rank": "121",
+        "city": "Dhule",
+        "state": "Maharashtra",
+        "populationIn2001": "341,755",
+        "populationIn2011": "376,093"
+    },
+    {
+        "rank": "122",
+        "city": "Tirupati",
+        "state": "Andhra Pradesh",
+        "populationIn2001": "228,202",
+        "populationIn2011": "374,260"
+    },
+    {
+        "rank": "123",
+        "city": "Rohtak",
+        "state": "Haryana",
+        "populationIn2001": "286,807",
+        "populationIn2011": "373,133"
+    },
+    {
+        "rank": "124",
+        "city": "Sagar",
+        "state": "Madhya Pradesh",
+        "populationIn2001": "232,133",
+        "populationIn2011": "370,296"
+    },
+    {
+        "rank": "125",
+        "city": "Korba",
+        "state": "Chhattisgarh",
+        "populationIn2001": "315,690",
+        "populationIn2011": "363,210"
+    },
+    {
+        "rank": "126",
+        "city": "Bhilwara",
+        "state": "Rajasthan",
+        "populationIn2001": "280,128",
+        "populationIn2011": "360,009"
+    },
+    {
+        "rank": "127",
+        "city": "Berhampur",
+        "state": "Odisha",
+        "populationIn2001": "307,792",
+        "populationIn2011": "355,823"
+    },
+    {
+        "rank": "128",
+        "city": "Muzaffarpur",
+        "state": "Bihar",
+        "populationIn2001": "305,525",
+        "populationIn2011": "351,838"
+    },
+    {
+        "rank": "129",
+        "city": "Ahmednagar",
+        "state": "Maharashtra",
+        "populationIn2001": "307,615",
+        "populationIn2011": "350,905"
+    },
+    {
+        "rank": "130",
+        "city": "Mathura",
+        "state": "Uttar Pradesh",
+        "populationIn2001": "302,770",
+        "populationIn2011": "349,336"
+    },
+    {
+        "rank": "131",
+        "city": "Kollam",
+        "state": "Kerala",
+        "populationIn2001": "361,560",
+        "populationIn2011": "349,033"
+    },
+    {
+        "rank": "132",
+        "city": "Avadi",
+        "state": "Tamil Nadu",
+        "populationIn2001": "229,403",
+        "populationIn2011": "344,701"
+    },
+    {
+        "rank": "133",
+        "city": "Kadapa",
+        "state": "Andhra Pradesh",
+        "populationIn2001": "125,725",
+        "populationIn2011": "343,054"
+    },
+    {
+        "rank": "134",
+        "city": "Kamarhati",
+        "state": "West Bengal",
+        "populationIn2001": "314,507",
+        "populationIn2011": "336,579"
+    },
+    {
+        "rank": "135",
+        "city": "Sambalpur",
+        "state": "Odisha",
+        "populationIn2001": "296,662",
+        "populationIn2011": "335,761"
+    },
+    {
+        "rank": "136",
+        "city": "Bilaspur",
+        "state": "Chhattisgarh",
+        "populationIn2001": "274,917",
+        "populationIn2011": "330,106"
+    },
+    {
+        "rank": "137",
+        "city": "Shahjahanpur",
+        "state": "Uttar Pradesh",
+        "populationIn2001": "296,662",
+        "populationIn2011": "327,975"
+    },
+    {
+        "rank": "138",
+        "city": "Satara",
+        "state": "Maharashtra",
+        "populationIn2001": "228,175",
+        "populationIn2011": "326,789"
+    },
+    {
+        "rank": "139",
+        "city": "Bijapur",
+        "state": "Karnataka",
+        "populationIn2001": "228,175",
+        "populationIn2011": "326,360"
+    },
+    {
+        "rank": "140",
+        "city": "Kurnool",
+        "state": "Andhra Pradesh",
+        "populationIn2001": "269,122",
+        "populationIn2011": "325,300"
+    },
+    {
+        "rank": "141",
+        "city": "Rampur",
+        "state": "Uttar Pradesh",
+        "populationIn2001": "281,494",
+        "populationIn2011": "325,248"
+    },
+    {
+        "rank": "142",
+        "city": "Shimoga",
+        "state": "Karnataka",
+        "populationIn2001": "274,352",
+        "populationIn2011": "322,428"
+    },
+    {
+        "rank": "143",
+        "city": "Chandrapur",
+        "state": "Maharashtra",
+        "populationIn2001": "289,450",
+        "populationIn2011": "321,036"
+    },
+    {
+        "rank": "144",
+        "city": "Junagadh",
+        "state": "Gujarat",
+        "populationIn2001": "168,686",
+        "populationIn2011": "320,250"
+    },
+    {
+        "rank": "145",
+        "city": "Thrissur",
+        "state": "Kerala",
+        "populationIn2001": "317,526",
+        "populationIn2011": "315,596"
+    },
+    {
+        "rank": "146",
+        "city": "Alwar",
+        "state": "Rajasthan",
+        "populationIn2001": "260,593",
+        "populationIn2011": "315,310"
+    },
+    {
+        "rank": "147",
+        "city": "Bardhaman",
+        "state": "West Bengal",
+        "populationIn2001": "285,602",
+        "populationIn2011": "314,638"
+    },
+    {
+        "rank": "148",
+        "city": "Kulti",
+        "state": "West Bengal",
+        "populationIn2001": "289,903",
+        "populationIn2011": "313,977"
+    },
+    {
+        "rank": "149",
+        "city": "Nizamabad",
+        "state": "Telangana",
+        "populationIn2001": "288,722",
+        "populationIn2011": "310,467"
+    },
+    {
+        "rank": "150",
+        "city": "Parbhani",
+        "state": "Maharashtra",
+        "populationIn2001": "259,329",
+        "populationIn2011": "307,191"
+    },
+    {
+        "rank": "151",
+        "city": "Tumkur",
+        "state": "Karnataka",
+        "populationIn2001": "248,929",
+        "populationIn2011": "305,821"
+    },
+    {
+        "rank": "152",
+        "city": "Khammam",
+        "state": "Telangana",
+        "populationIn2001": "218,689",
+        "populationIn2011": "305,000"
+    },
+    {
+        "rank": "153",
+        "city": "Ozhukarai",
+        "state": "Puducherry",
+        "populationIn2001": "217,707",
+        "populationIn2011": "300,028"
+    },
+    {
+        "rank": "154",
+        "city": "Bihar Sharif",
+        "state": "Bihar",
+        "populationIn2001": "232,071",
+        "populationIn2011": "296,889"
+    },
+    {
+        "rank": "155",
+        "city": "Panipat",
+        "state": "Haryana",
+        "populationIn2001": "261,740",
+        "populationIn2011": "294,150"
+    },
+    {
+        "rank": "156",
+        "city": "Darbhanga",
+        "state": "Bihar",
+        "populationIn2001": "267,348",
+        "populationIn2011": "294,116"
+    },
+    {
+        "rank": "157",
+        "city": "Bally",
+        "state": "West Bengal",
+        "populationIn2001": "260,906",
+        "populationIn2011": "291,972"
+    },
+    {
+        "rank": "158",
+        "city": "Aizawl",
+        "state": "Mizoram",
+        "populationIn2001": "228,280",
+        "populationIn2011": "291,822"
+    },
+    {
+        "rank": "159",
+        "city": "Dewas",
+        "state": "Madhya Pradesh",
+        "populationIn2001": "231,672",
+        "populationIn2011": "289,438"
+    },
+    {
+        "rank": "160",
+        "city": "Ichalkaranji",
+        "state": "Maharashtra",
+        "populationIn2001": "257,610",
+        "populationIn2011": "287,570"
+    },
+    {
+        "rank": "161",
+        "city": "Karnal",
+        "state": "Haryana",
+        "populationIn2001": "210,476",
+        "populationIn2011": "286,974"
+    },
+    {
+        "rank": "162",
+        "city": "Bathinda",
+        "state": "Punjab",
+        "populationIn2001": "217,256",
+        "populationIn2011": "285,813"
+    },
+    {
+        "rank": "163",
+        "city": "Jalna",
+        "state": "Maharashtra",
+        "populationIn2001": "235,795",
+        "populationIn2011": "285,349"
+    },
+    {
+        "rank": "164",
+        "city": "Eluru",
+        "state": "Andhra Pradesh",
+        "populationIn2001": "190,347",
+        "populationIn2011": "283,648"
+    },
+    {
+        "rank": "165",
+        "city": "Barasat",
+        "state": "West Bengal",
+        "populationIn2001": "231,515",
+        "populationIn2011": "283,443"
+    },
+    {
+        "rank": "166",
+        "city": "Kirari Suleman Nagar",
+        "state": "Delhi",
+        "populationIn2001": "153,874",
+        "populationIn2011": "282,598"
+    },
+    {
+        "rank": "167",
+        "city": "Purnia",
+        "state": "Bihar",
+        "populationIn2001": "171,687",
+        "populationIn2011": "280,547"
+    },
+    {
+        "rank": "168",
+        "city": "Satna",
+        "state": "Madhya Pradesh",
+        "populationIn2001": "225,464",
+        "populationIn2011": "280,248"
+    },
+    {
+        "rank": "169",
+        "city": "Mau",
+        "state": "Uttar Pradesh",
+        "populationIn2001": "212,657",
+        "populationIn2011": "279,060"
+    },
+    {
+        "rank": "170",
+        "city": "Sonipat",
+        "state": "Haryana",
+        "populationIn2001": "214,974",
+        "populationIn2011": "277,053"
+    },
+    {
+        "rank": "171",
+        "city": "Farrukhabad",
+        "state": "Uttar Pradesh",
+        "populationIn2001": "228,333",
+        "populationIn2011": "275,750"
+    },
+    {
+        "rank": "173",
+        "city": "Durg",
+        "state": "Chhattisgarh",
+        "populationIn2001": "232,517",
+        "populationIn2011": "268,679"
+    },
+    {
+        "rank": "174",
+        "city": "Imphal",
+        "state": "Manipur",
+        "populationIn2001": "221,492",
+        "populationIn2011": "264,986"
+    },
+    {
+        "rank": "175",
+        "city": "Ratlam",
+        "state": "Madhya Pradesh",
+        "populationIn2001": "222,202",
+        "populationIn2011": "264,810"
+    },
+    {
+        "rank": "176",
+        "city": "Hapur",
+        "state": "Uttar Pradesh",
+        "populationIn2001": "211,983",
+        "populationIn2011": "262,801"
+    },
+    {
+        "rank": "177",
+        "city": "Arrah",
+        "state": "Bihar",
+        "populationIn2001": "203,380",
+        "populationIn2011": "261,099"
+    },
+    {
+        "rank": "178",
+        "city": "Anantapur",
+        "state": "Andhra Pradesh",
+        "populationIn2001": "218,808",
+        "populationIn2011": "261,004"
+    },
+    {
+        "rank": "179",
+        "city": "Karimnagar",
+        "state": "Telangana",
+        "populationIn2001": "205,653",
+        "populationIn2011": "260,899"
+    },
+    {
+        "rank": "180",
+        "city": "Etawah",
+        "state": "Uttar Pradesh",
+        "populationIn2001": "210,453",
+        "populationIn2011": "256,838"
+    },
+    {
+        "rank": "181",
+        "city": "Ambarnath",
+        "state": "Maharashtra",
+        "populationIn2001": "203,795",
+        "populationIn2011": "254,003"
+    },
+    {
+        "rank": "182",
+        "city": "North Dumdum",
+        "state": "West Bengal",
+        "populationIn2001": "220,042",
+        "populationIn2011": "253,625"
+    },
+    {
+        "rank": "183",
+        "city": "Bharatpur",
+        "state": "Rajasthan",
+        "populationIn2001": "204,587",
+        "populationIn2011": "252,109"
+    },
+    {
+        "rank": "184",
+        "city": "Begusarai",
+        "state": "Bihar",
+        "populationIn2001": "93,378",
+        "populationIn2011": "251,136"
+    },
+    {
+        "rank": "185",
+        "city": "New Delhi",
+        "state": "Delhi",
+        "populationIn2001": "302,147",
+        "populationIn2011": "249,998"
+    },
+    {
+        "rank": "186",
+        "city": "Gandhidham",
+        "state": "Gujarat",
+        "populationIn2001": "166,388",
+        "populationIn2011": "248,705"
+    },
+    {
+        "rank": "187",
+        "city": "Baranagar",
+        "state": "West Bengal",
+        "populationIn2001": "250,768",
+        "populationIn2011": "248,466"
+    },
+    {
+        "rank": "188",
+        "city": "Tiruvottiyur",
+        "state": "Tamil Nadu",
+        "populationIn2001": "212,281",
+        "populationIn2011": "248,059"
+    },
+    {
+        "rank": "189",
+        "city": "Pondicherry",
+        "state": "Puducherry",
+        "populationIn2001": "220,749",
+        "populationIn2011": "241,773"
+    },
+    {
+        "rank": "190",
+        "city": "Sikar",
+        "state": "Rajasthan",
+        "populationIn2001": "184,904",
+        "populationIn2011": "237,579"
+    },
+    {
+        "rank": "191",
+        "city": "Thoothukudi",
+        "state": "Tamil Nadu",
+        "populationIn2001": "216,058",
+        "populationIn2011": "237,374"
+    },
+    {
+        "rank": "192",
+        "city": "Rewa",
+        "state": "Madhya Pradesh",
+        "populationIn2001": "183,274",
+        "populationIn2011": "235,422"
+    },
+    {
+        "rank": "193",
+        "city": "Mirzapur",
+        "state": "Uttar Pradesh",
+        "populationIn2001": "205,053",
+        "populationIn2011": "233,691"
+    },
+    {
+        "rank": "194",
+        "city": "Raichur",
+        "state": "Karnataka",
+        "populationIn2001": "207,421",
+        "populationIn2011": "232,456"
+    },
+    {
+        "rank": "195",
+        "city": "Pali",
+        "state": "Rajasthan",
+        "populationIn2001": "187,641",
+        "populationIn2011": "229,956"
+    },
+    {
+        "rank": "196",
+        "city": "Ramagundam",
+        "state": "Telangana",
+        "populationIn2001": "236,600",
+        "populationIn2011": "229,644"
+    },
+    {
+        "rank": "197",
+        "city": "Silchar",
+        "state": "Assam",
+        "populationIn2001": "184,105",
+        "populationIn2011": "229,136"
+    },
+    {
+        "rank": "198",
+        "city": "Haridwar",
+        "state": "Uttarakhand",
+        "populationIn2001": "175,010",
+        "populationIn2011": "228,832"
+    },
+    {
+        "rank": "199",
+        "city": "Vijayanagaram",
+        "state": "Andhra Pradesh",
+        "populationIn2001": "174,324",
+        "populationIn2011": "228,025"
+    },
+    {
+        "rank": "200",
+        "city": "Tenali",
+        "state": "Andhra Pradesh",
+        "populationIn2001": "184,937",
+        "populationIn2011": "225,982"
+    },
+    {
+        "rank": "201",
+        "city": "Nagercoil",
+        "state": "Tamil Nadu",
+        "populationIn2001": "208,179",
+        "populationIn2011": "224,849"
+    },
+    {
+        "rank": "202",
+        "city": "Sri Ganganagar",
+        "state": "Rajasthan",
+        "populationIn2001": "210,713",
+        "populationIn2011": "224,773"
+    },
+    {
+        "rank": "203",
+        "city": "Karawal Nagar",
+        "state": "Delhi",
+        "populationIn2001": "148,549",
+        "populationIn2011": "224,666"
+    },
+    {
+        "rank": "204",
+        "city": "Mango",
+        "state": "Jharkhand",
+        "populationIn2001": "166,125",
+        "populationIn2011": "223,805"
+    },
+    {
+        "rank": "205",
+        "city": "Thanjavur",
+        "state": "Tamil Nadu",
+        "populationIn2001": "215,314",
+        "populationIn2011": "222,943"
+    },
+    {
+        "rank": "206",
+        "city": "Bulandshahr",
+        "state": "Uttar Pradesh",
+        "populationIn2001": "176,425",
+        "populationIn2011": "222,519"
+    },
+    {
+        "rank": "207",
+        "city": "Uluberia",
+        "state": "West Bengal",
+        "populationIn2001": "202,135",
+        "populationIn2011": "222,240"
+    },
+    {
+        "rank": "208",
+        "city": "Katni",
+        "state": "Madhya Pradesh",
+        "populationIn2001": "187,029",
+        "populationIn2011": "221,883"
+    },
+    {
+        "rank": "209",
+        "city": "Sambhal",
+        "state": "Uttar Pradesh",
+        "populationIn2001": "182,478",
+        "populationIn2011": "220,813"
+    },
+    {
+        "rank": "210",
+        "city": "Singrauli",
+        "state": "Madhya Pradesh",
+        "populationIn2001": "185,190",
+        "populationIn2011": "220,257"
+    },
+    {
+        "rank": "211",
+        "city": "Nadiad",
+        "state": "Gujarat",
+        "populationIn2001": "192,913",
+        "populationIn2011": "218,095"
+    },
+    {
+        "rank": "212",
+        "city": "Secunderabad",
+        "state": "Telangana",
+        "populationIn2001": "206,102",
+        "populationIn2011": "217,910"
+    },
+    {
+        "rank": "213",
+        "city": "Naihati",
+        "state": "West Bengal",
+        "populationIn2001": "215,303",
+        "populationIn2011": "217,900"
+    },
+    {
+        "rank": "214",
+        "city": "Yamunanagar",
+        "state": "Haryana",
+        "populationIn2001": "189,696",
+        "populationIn2011": "216,677"
+    },
+    {
+        "rank": "215",
+        "city": "Bidhannagar",
+        "state": "West Bengal",
+        "populationIn2001": "164,221",
+        "populationIn2011": "215,514"
+    },
+    {
+        "rank": "216",
+        "city": "Pallavaram",
+        "state": "Tamil Nadu",
+        "populationIn2001": "144,623",
+        "populationIn2011": "215,417"
+    },
+    {
+        "rank": "217",
+        "city": "Bidar",
+        "state": "Karnataka",
+        "populationIn2001": "172,877",
+        "populationIn2011": "214,373"
+    },
+    {
+        "rank": "218",
+        "city": "Munger",
+        "state": "Bihar",
+        "populationIn2001": "188,050",
+        "populationIn2011": "213,303"
+    },
+    {
+        "rank": "219",
+        "city": "Panchkula",
+        "state": "Haryana",
+        "populationIn2001": "140,925",
+        "populationIn2011": "211,355"
+    },
+    {
+        "rank": "220",
+        "city": "Burhanpur",
+        "state": "Madhya Pradesh",
+        "populationIn2001": "193,725",
+        "populationIn2011": "210,886"
+    },
+    {
+        "rank": "221",
+        "city": "Raurkela Industrial Township",
+        "state": "Odisha",
+        "populationIn2001": "206,693",
+        "populationIn2011": "210,317"
+    },
+    {
+        "rank": "222",
+        "city": "Kharagpur",
+        "state": "West Bengal",
+        "populationIn2001": "188,761",
+        "populationIn2011": "207,604"
+    },
+    {
+        "rank": "223",
+        "city": "Dindigul",
+        "state": "Tamil Nadu",
+        "populationIn2001": "196,955",
+        "populationIn2011": "207,327"
+    },
+    {
+        "rank": "224",
+        "city": "Gandhinagar",
+        "state": "Gujarat",
+        "populationIn2001": "195,985",
+        "populationIn2011": "206,167"
+    },
+    {
+        "rank": "225",
+        "city": "Hospet",
+        "state": "Karnataka",
+        "populationIn2001": "164,240",
+        "populationIn2011": "206,167"
+    },
+    {
+        "rank": "226",
+        "city": "Nangloi Jat",
+        "state": "Delhi",
+        "populationIn2001": "150,948",
+        "populationIn2011": "205,596"
+    },
+    {
+        "rank": "227",
+        "city": "Malda",
+        "state": "West Bengal",
+        "populationIn2001": "161,456",
+        "populationIn2011": "205,521"
+    },
+    {
+        "rank": "228",
+        "city": "Ongole",
+        "state": "Andhra Pradesh",
+        "populationIn2001": "150,471",
+        "populationIn2011": "204,746"
+    },
+    {
+        "rank": "229",
+        "city": "Deoghar",
+        "state": "Jharkhand",
+        "populationIn2001": "112,525",
+        "populationIn2011": "203,123"
+    },
+    {
+        "rank": "230",
+        "city": "Chapra",
+        "state": "Bihar",
+        "populationIn2001": "79,190",
+        "populationIn2011": "202,352"
+    },
+    {
+        "rank": "231",
+        "city": "Haldia",
+        "state": "West Bengal",
+        "populationIn2001": "170,673",
+        "populationIn2011": "200,827"
+    },
+    {
+        "rank": "232",
+        "city": "Khandwa",
+        "state": "Madhya Pradesh",
+        "populationIn2001": "172,242",
+        "populationIn2011": "200,738"
+    },
+    {
+        "rank": "233",
+        "city": "Nandyal",
+        "state": "Andhra Pradesh",
+        "populationIn2001": "152,676",
+        "populationIn2011": "200,516"
+    },
+    {
+        "rank": "234",
+        "city": "Morena",
+        "state": "Madhya Pradesh",
+        "populationIn2001": "150,959",
+        "populationIn2011": "200,482"
+    },
+    {
+        "rank": "235",
+        "city": "Amroha",
+        "state": "Uttar Pradesh",
+        "populationIn2001": "165,129",
+        "populationIn2011": "198,471"
+    },
+    {
+        "rank": "236",
+        "city": "Anand",
+        "state": "Gujarat",
+        "populationIn2001": "130,685",
+        "populationIn2011": "198,282"
+    },
+    {
+        "rank": "237",
+        "city": "Bhind",
+        "state": "Madhya Pradesh",
+        "populationIn2001": "153,752",
+        "populationIn2011": "197,585"
+    },
+    {
+        "rank": "238",
+        "city": "Bhalswa Jahangir Pur",
+        "state": "Delhi",
+        "populationIn2001": "152,339",
+        "populationIn2011": "197,148"
+    },
+    {
+        "rank": "239",
+        "city": "Madhyamgram",
+        "state": "West Bengal",
+        "populationIn2001": "155,451",
+        "populationIn2011": "196,127"
+    },
+    {
+        "rank": "240",
+        "city": "Bhiwani",
+        "state": "Haryana",
+        "populationIn2001": "169,531",
+        "populationIn2011": "196,057"
+    },
+    {
+        "rank": "241",
+        "city": "Berhampore",
+        "state": "West Bengal",
+        "populationIn2001": "160,143",
+        "populationIn2011": "195,223"
+    },
+    {
+        "rank": "242",
+        "city": "Ambala",
+        "state": "Haryana",
+        "populationIn2001": "139,279",
+        "populationIn2011": "195,153"
+    },
+    {
+        "rank": "243",
+        "city": "Morbi",
+        "state": "Gujarat",
+        "populationIn2001": "145,719",
+        "populationIn2011": "194,947"
+    },
+    {
+        "rank": "244",
+        "city": "Fatehpur",
+        "state": "Uttar Pradesh",
+        "populationIn2001": "151,757",
+        "populationIn2011": "193,193"
+    },
+    {
+        "rank": "245",
+        "city": "Raebareli",
+        "state": "Uttar Pradesh",
+        "populationIn2001": "169,333",
+        "populationIn2011": "191,316"
+    },
+    {
+        "rank": "246",
+        "city": "Khora, Ghaziabad",
+        "state": "Uttar Pradesh",
+        "populationIn2001": "―",
+        "populationIn2011": "190,400"
+    },
+    {
+        "rank": "247",
+        "city": "Chittoor",
+        "state": "Andhra Pradesh",
+        "populationIn2001": "152,654",
+        "populationIn2011": "189,332"
+    },
+    {
+        "rank": "248",
+        "city": "Bhusawal",
+        "state": "Maharashtra",
+        "populationIn2001": "172,372",
+        "populationIn2011": "187,421"
+    },
+    {
+        "rank": "249",
+        "city": "Orai",
+        "state": "Uttar Pradesh",
+        "populationIn2001": "139,318",
+        "populationIn2011": "187,137"
+    },
+    {
+        "rank": "250",
+        "city": "Bahraich",
+        "state": "Uttar Pradesh",
+        "populationIn2001": "168,323",
+        "populationIn2011": "186,223"
+    },
+    {
+        "rank": "251",
+        "city": "Phusro",
+        "state": "Jharkhand",
+        "populationIn2001": "83,463",
+        "populationIn2011": "186,139"
+    },
+    {
+        "rank": "252",
+        "city": "Vellore",
+        "state": "Tamil Nadu",
+        "populationIn2001": "177,230",
+        "populationIn2011": "185,803"
+    },
+    {
+        "rank": "253",
+        "city": "Mehsana",
+        "state": "Gujarat",
+        "populationIn2001": "141,453",
+        "populationIn2011": "184,991"
+    },
+    {
+        "rank": "254",
+        "city": "Raiganj",
+        "state": "West Bengal",
+        "populationIn2001": "165,212",
+        "populationIn2011": "183,612"
+    },
+    {
+        "rank": "255",
+        "city": "Sirsa",
+        "state": "Haryana",
+        "populationIn2001": "160,735",
+        "populationIn2011": "182,534"
+    },
+    {
+        "rank": "256",
+        "city": "Danapur",
+        "state": "Bihar",
+        "populationIn2001": "131,176",
+        "populationIn2011": "182,429"
+    },
+    {
+        "rank": "257",
+        "city": "Serampore",
+        "state": "West Bengal",
+        "populationIn2001": "197,857",
+        "populationIn2011": "181,842"
+    },
+    {
+        "rank": "258",
+        "city": "Sultan Pur Majra",
+        "state": "Delhi",
+        "populationIn2001": "164,426",
+        "populationIn2011": "181,554"
+    },
+    {
+        "rank": "259",
+        "city": "Guna",
+        "state": "Madhya Pradesh",
+        "populationIn2001": "137,175",
+        "populationIn2011": "180,935"
+    },
+    {
+        "rank": "260",
+        "city": "Jaunpur",
+        "state": "Uttar Pradesh",
+        "populationIn2001": "160,055",
+        "populationIn2011": "180,362"
+    },
+    {
+        "rank": "261",
+        "city": "Panvel",
+        "state": "Maharashtra",
+        "populationIn2001": "104,058",
+        "populationIn2011": "180,020"
+    },
+    {
+        "rank": "262",
+        "city": "Shivpuri",
+        "state": "Madhya Pradesh",
+        "populationIn2001": "146,892",
+        "populationIn2011": "179,977"
+    },
+    {
+        "rank": "263",
+        "city": "Surendranagar Dudhrej",
+        "state": "Gujarat",
+        "populationIn2001": "156,161",
+        "populationIn2011": "177,851"
+    },
+    {
+        "rank": "264",
+        "city": "Unnao",
+        "state": "Uttar Pradesh",
+        "populationIn2001": "144,662",
+        "populationIn2011": "177,658"
+    },
+    {
+        "rank": "265",
+        "city": "Chinsurah",
+        "state": "West Bengal",
+        "populationIn2001": "170,201",
+        "populationIn2011": "177,259"
+    },
+    {
+        "rank": "266",
+        "city": "Alappuzha",
+        "state": "Kerala",
+        "populationIn2001": "177,029",
+        "populationIn2011": "174,164"
+    },
+    {
+        "rank": "267",
+        "city": "Kottayam",
+        "state": "Kerala",
+        "populationIn2001": "129,894",
+        "populationIn2011": "172,878"
+    },
+    {
+        "rank": "268",
+        "city": "Machilipatnam",
+        "state": "Andhra Pradesh",
+        "populationIn2001": "179,353",
+        "populationIn2011": "169,892"
+    },
+    {
+        "rank": "269",
+        "city": "Shimla",
+        "state": "Himachal Pradesh",
+        "populationIn2001": "142,555",
+        "populationIn2011": "169,578"
+    },
+    {
+        "rank": "270",
+        "city": "Adoni",
+        "state": "Andhra Pradesh",
+        "populationIn2001": "―",
+        "populationIn2011": "166,537"
+    },
+    {
+        "rank": "271",
+        "city": "Udupi",
+        "state": "Karnataka",
+        "populationIn2001": "―",
+        "populationIn2011": "165,401"
+    },
+    {
+        "rank": "272",
+        "city": "Katihar",
+        "state": "Bihar",
+        "populationIn2001": "115,169",
+        "populationIn2011": "164,937"
+    },
+    {
+        "rank": "273",
+        "city": "Proddatur",
+        "state": "Andhra Pradesh",
+        "populationIn2001": "86,896",
+        "populationIn2011": "163,600"
+    },
+    {
+        "rank": "274",
+        "city": "Mahbubnagar",
+        "state": "Telangana",
+        "populationIn2001": "–",
+        "populationIn2011": "158,000"
+    },
+    {
+        "rank": "275",
+        "city": "Saharsa",
+        "state": "Bihar",
+        "populationIn2001": "125,167",
+        "populationIn2011": "155,175"
+    },
+    {
+        "rank": "276",
+        "city": "Dibrugarh",
+        "state": "Assam",
+        "populationIn2001": "137,661",
+        "populationIn2011": "154,296"
+    },
+    {
+        "rank": "277",
+        "city": "Jorhat",
+        "state": "Assam",
+        "populationIn2001": "112,026",
+        "populationIn2011": "153,889"
+    },
+    {
+        "rank": "278",
+        "city": "Hazaribagh",
+        "state": "Jharkhand",
+        "populationIn2001": "127,243",
+        "populationIn2011": "153,599"
+    },
+    {
+        "rank": "279",
+        "city": "Hindupur",
+        "state": "Andhra Pradesh",
+        "populationIn2001": "―",
+        "populationIn2011": "151,835"
+    },
+    {
+        "rank": "280",
+        "city": "Nagaon",
+        "state": "Assam",
+        "populationIn2001": "123,265",
+        "populationIn2011": "148,496"
+    },
+    {
+        "rank": "281",
+        "city": "Sasaram",
+        "state": "Bihar",
+        "populationIn2001": "131,172",
+        "populationIn2011": "147,396"
+    },
+    {
+        "rank": "282",
+        "city": "Hajipur",
+        "state": "Bihar",
+        "populationIn2001": "119,412",
+        "populationIn2011": "147,126"
+    },
+    {
+        "rank": "283",
+        "city": "Giridih",
+        "state": "Jharkhand",
+        "populationIn2001": "―",
+        "populationIn2011": "143,529"
+    },
+    {
+        "rank": "284",
+        "city": "Bhimavaram",
+        "state": "Andhra Pradesh",
+        "populationIn2001": "―",
+        "populationIn2011": "142,280"
+    },
+    {
+        "rank": "285",
+        "city": "Kumbakonam",
+        "state": "Tamil Nadu",
+        "populationIn2001": "144,021",
+        "populationIn2011": "140,056"
+    },
+    {
+        "rank": "286",
+        "city": "Bongaigaon",
+        "state": "Assam",
+        "populationIn2001": "101,213",
+        "populationIn2011": "139,650"
+    },
+    {
+        "rank": "287",
+        "city": "Dehri",
+        "state": "Bihar",
+        "populationIn2001": "119,057",
+        "populationIn2011": "137,068"
+    },
+    {
+        "rank": "288",
+        "city": "Madanapalle",
+        "state": "Andhra Pradesh",
+        "populationIn2001": "―",
+        "populationIn2011": "135,669"
+    },
+    {
+        "rank": "289",
+        "city": "Siwan",
+        "state": "Bihar",
+        "populationIn2001": "109,919",
+        "populationIn2011": "134,458"
+    },
+    {
+        "rank": "290",
+        "city": "Bettiah",
+        "state": "Bihar",
+        "populationIn2001": "116,670",
+        "populationIn2011": "132,896"
+    },
+    {
+        "rank": "291",
+        "city": "Ramgarh",
+        "state": "Jharkhand",
+        "populationIn2001": "73,455",
+        "populationIn2011": "132,441"
+    },
+    {
+        "rank": "292",
+        "city": "Tinsukia",
+        "state": "Assam",
+        "populationIn2001": "101,957",
+        "populationIn2011": "126,389"
+    },
+    {
+        "rank": "293",
+        "city": "Guntakal",
+        "state": "Andhra Pradesh",
+        "populationIn2001": "―",
+        "populationIn2011": "126,270"
+    },
+    {
+        "rank": "294",
+        "city": "Srikakulam",
+        "state": "Andhra Pradesh",
+        "populationIn2001": "―",
+        "populationIn2011": "125,939"
+    },
+    {
+        "rank": "295",
+        "city": "Motihari",
+        "state": "Bihar",
+        "populationIn2001": "100,683",
+        "populationIn2011": "125,183"
+    },
+    {
+        "rank": "296",
+        "city": "Dharmavaram",
+        "state": "Andhra Pradesh",
+        "populationIn2001": "―",
+        "populationIn2011": "121,874"
+    },
+    {
+        "rank": "297",
+        "city": "Medininagar",
+        "state": "Jharkhand",
+        "populationIn2001": "―",
+        "populationIn2011": "120,325"
+    },
+    {
+        "rank": "298",
+        "city": "Gudivada",
+        "state": "Andhra Pradesh",
+        "populationIn2001": "―",
+        "populationIn2011": "118,167"
+    },
+    {
+        "rank": "299",
+        "city": "Phagwara",
+        "state": "Punjab",
+        "populationIn2001": "―",
+        "populationIn2011": "117,966"
+    },
+    {
+        "rank": "300",
+        "city": "Pudukkottai",
+        "state": "Tamil Nadu",
+        "populationIn2001": "―",
+        "populationIn2011": "117,745"
+    },
+    {
+        "rank": "301",
+        "city": "Hosur",
+        "state": "Tamil Nadu",
+        "populationIn2001": "102,000",
+        "populationIn2011": "116,821"
+    },
+    {
+        "rank": "302",
+        "city": "Narasaraopet",
+        "state": "Andhra Pradesh",
+        "populationIn2001": "―",
+        "populationIn2011": "116,250"
+    },
+    {
+        "rank": "303",
+        "city": "Suryapet",
+        "state": "Telangana",
+        "populationIn2001": "94,585",
+        "populationIn2011": "115,250"
+    },
+    {
+        "rank": "304",
+        "city": "Miryalaguda",
+        "state": "Telangana",
+        "populationIn2001": "91,395",
+        "populationIn2011": "109,891"
+    },
+    {
+        "rank": "305",
+        "city": "Tadipatri",
+        "state": "Andhra Pradesh",
+        "populationIn2001": "―",
+        "populationIn2011": "108,171"
+    },
+    {
+        "rank": "306",
+        "city": "Karaikudi",
+        "state": "Tamil Nadu",
+        "populationIn2001": "86,596",
+        "populationIn2011": "106,714"
+    },
+    {
+        "rank": "307",
+        "city": "Kishanganj",
+        "state": "Bihar",
+        "populationIn2001": "85,590",
+        "populationIn2011": "105,782"
+    },
+    {
+        "rank": "308",
+        "city": "Jamalpur",
+        "state": "Bihar",
+        "populationIn2001": "96,983",
+        "populationIn2011": "105,221"
+    },
+    {
+        "rank": "309",
+        "city": "Ballia",
+        "state": "Uttar Pradesh",
+        "populationIn2001": "-",
+        "populationIn2011": "104,271"
+    },
+    {
+        "rank": "310",
+        "city": "Kavali",
+        "state": "Andhra Pradesh",
+        "populationIn2001": "―",
+        "populationIn2011": "104,000"
+    },
+    {
+        "rank": "311",
+        "city": "Tadepalligudem",
+        "state": "Andhra Pradesh",
+        "populationIn2001": "―",
+        "populationIn2011": "103,906"
+    },
+    {
+        "rank": "312",
+        "city": "Amaravati",
+        "state": "Andhra Pradesh",
+        "populationIn2001": "―",
+        "populationIn2011": "103,000"
+    },
+    {
+        "rank": "313",
+        "city": "Buxar",
+        "state": "Bihar",
+        "populationIn2001": "83,168",
+        "populationIn2011": "102,591"
+    },
+    {
+        "rank": "314",
+        "city": "Tezpur",
+        "state": "Assam",
+        "populationIn2001": "83,028",
+        "populationIn2011": "102,505"
+    },
+    {
+        "rank": "315",
+        "city": "Jehanabad",
+        "state": "Bihar",
+        "populationIn2001": "81,503",
+        "populationIn2011": "102,456"
+    },
+    {
+        "rank": "316",
+        "city": "Aurangabad",
+        "state": "Bihar",
+        "populationIn2001": "79,393",
+        "populationIn2011": "101,520"
+    },
+    {
+        "rank": "317",
+        "city": "Gangtok",
+        "state": "Sikkim",
+        "populationIn2001": "29,354",
+        "populationIn2011": "100,286"
+    }
+]
